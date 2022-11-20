@@ -4,7 +4,7 @@
 
 This is a software audio synthesizer implemented in Java. It can generate different sound waves: sine, square, white noise, and linear ramp. And itt also supports different filters, including volume adjuster, VF sine wave, and mixer (play button). The GUI is implemented in JavaFX, which allows users can create, drag, connect, and remove widgets easily. 
 
-Learn more from this [video introduction]().
+Learn more from this [video introduction](./assets/intro.mov).
 
 ![image-20221119195431298](./assets/synthesizer.png)
 
